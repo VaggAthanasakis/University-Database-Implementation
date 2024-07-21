@@ -1,0 +1,1 @@
+A database for an engineering department was developed, encompassing student, faculty, and staff information. The database was expanded to include details about degrees, thesis projects, and the facilitation of student group formation for laboratory assignments and exercises using PostgreSQL.
